@@ -5,3 +5,4 @@ add on branch dev
 
 add on branch featuer1, then manual merge with master
 
+test on mac
